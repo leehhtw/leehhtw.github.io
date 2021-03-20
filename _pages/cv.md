@@ -31,7 +31,17 @@ Work experience
 * 2021-present: Research Fellow
   * Massachusetts General Hospital, Department of Radiology, Boston
   * Supervisor: Dr. Susie Y Huang
-  
+
+Honors and Awards
+======
+* 2020 Brain Structure and Function Editors Choice Award, Cajal Club
+* 2019 Special MacCracken Award, New York University School of Medicine
+* 2019 Trainee Competition, 2nd Place, White Matter Study Group, ISMRM 27th Annual Meeting
+* 2018 Trainee Competition, 2nd Place, White Matter Study Group, ISMRM 26th Annual Meeting
+* 2017 Trainee Competition, 3rd Place, White Matter Study Group, ISMRM 25th Annual Meeting
+* 2016 Abstract Presenter Award, 2nd Place, Diffusion Study Group, ISMRM 24th Annual Meeting
+* 2002 Gold Medal, 33rd International Physics Olympiad, Bali, Indonesia
+
 Skills
 ======
 * Time-dependent diffusion MRI
