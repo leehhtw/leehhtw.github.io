@@ -11,30 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.D. in Medicine, National Taiwan University, 2011
+* B.S. in Physics, National Taiwan University, 2011
+* M.S. in Physics, National Taiwan University, 2014
+* Ph.D in Biomedical Imaging, New York University, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2008-2009: Intern Physician
+  * National Taiwan Univeristy Hospital, Taiwan
+  
+* 2011-2012: Medical Officer, Second Lieutenant
+  * Matsu Beigan Field Hospital, Taiwan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019-2020: Postdoctoral Fellow
+  * New York University, School of Medicine, New York
+  * Supervisor: Dr. Dmitry S Novikov and Dr. Els Fieremans
+
+* 2020-present: Research Fellow
+  * Massachusetts General Hospital, Department of Radiology, Boston
+  * Supervisor: Dr. Susie Y Huang
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Time-dependent diffusion MRI
+  * Biophysical modeling
+  * Numerical validation
+  * MRI experiment
+* Computer: MATLAB, C++, CUDA
 
 Publications
 ======
@@ -48,12 +52,4 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
