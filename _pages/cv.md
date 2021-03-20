@@ -24,11 +24,11 @@ Work experience
 * 2011-2012: Medical Officer, Second Lieutenant
   * Matsu Beigan Field Hospital, Taiwan
 
-* 2019-2020: Postdoctoral Fellow
+* 2019-2021: Postdoctoral Fellow
   * New York University, School of Medicine, New York
   * Supervisor: Dr. Dmitry S Novikov and Dr. Els Fieremans
 
-* 2020-present: Research Fellow
+* 2021-present: Research Fellow
   * Massachusetts General Hospital, Department of Radiology, Boston
   * Supervisor: Dr. Susie Y Huang
   
