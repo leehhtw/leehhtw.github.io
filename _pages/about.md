@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 This is Dr. Hong-Hsi Lee's home on the web!
-[Axons in a Cube](images/grc_cover_3.png)
+![](images/grc_cover_3.png)
