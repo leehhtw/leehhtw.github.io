@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 This is Dr. Hong-Hsi Lee's home on the web!
-![](https://github.com/leehhtw/leehhtw.github.io/blob/master/images/grc_cover_3.png =250x250)
+![](https://github.com/leehhtw/leehhtw.github.io/blob/master/images/grc_cover_3.png = 250x250)
