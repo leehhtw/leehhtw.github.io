@@ -10,4 +10,4 @@ redirect_from:
 
 This is Dr. Hong-Hsi Lee's home on the web!
 
-<img src="https://github.com/leehhtw/leehhtw.github.io/blob/master/images/grc_cover_3.png" width="800" height="800">
+<img src="https://github.com/leehhtw/leehhtw.github.io/blob/master/images/grc_cover_3.png" width="500" height="500">
