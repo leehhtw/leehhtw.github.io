@@ -38,6 +38,10 @@ Skills
   * Biophysical modeling
   * Numerical validation
   * MRI experiment
+* Image processing
+  * Gibbs-ringing correction
+  * Non-Cartesian sampling denoising
+  * Super-resolution
 * Computer: MATLAB, C++, CUDA
 
 Publications
