@@ -34,6 +34,7 @@ Work experience
 
 Honors and Awards
 ======
+* 2021 ISMRM Junior Fellow
 * 2020 Brain Structure and Function Editors Choice Award, Cajal Club
 * 2019 Special MacCracken Award, New York University School of Medicine
 * 2019 Trainee Competition, 2nd Place, White Matter Study Group, ISMRM 27th Annual Meeting
