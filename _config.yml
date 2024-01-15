@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hong-Hsi Lee (李鴻禧)"
 title_separator          : "-"
 name                     : &name "Hong-Hsi Lee, MD, PhD"
-description              : &description "Postdoctoral Fellow at MGH"
+description              : &description "Instructor at Mass General Hospital/Harvard Medical School"
 url                      : https://leehhtw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "leehhtw/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hong-Hsi Lee, MD, PhD"
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral Fellow at MGH, expert in biophysical modeling, diffusion MRI, and image processing"
+  bio              : "Instructor at Mass General Hospital/Harvard Medical School, expert in biophysical modeling, diffusion MRI, and image processing"
   location         : "Boston, MA"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=hong+hsi+lee"
