@@ -28,12 +28,16 @@ Work experience
   * New York University, School of Medicine, New York
   * Supervisor: Dr. Dmitry S Novikov and Dr. Els Fieremans
 
-* 2021-present: Research Fellow
-  * Massachusetts General Hospital, Department of Radiology, Boston
+* 2021-2021: Research Fellow
+  * Radiology, Mass General Hospital/Harvard Medical School, Boston
   * Supervisor: Dr. Susie Y Huang
+
+* 2021-present: Instructor
+  * Radiology, Mass General Hospital/Harvard Medical School, Boston
 
 Honors and Awards
 ======
+* 2021 NIH Director's [Early Independence Award](https://commonfund.nih.gov/earlyindependence/AwardRecipients21)
 * 2021 ISMRM Junior Fellow
 * 2020 Brain Structure and Function Editors Choice Award, Cajal Club
 * 2019 Special MacCracken Award, New York University School of Medicine
@@ -53,7 +57,7 @@ Skills
   * Gibbs-ringing correction
   * Non-Cartesian sampling denoising
   * Super-resolution
-* Computer: MATLAB, C++, CUDA
+* Computer: MATLAB, C++, CUDA C++
 
 Publications
 ======
