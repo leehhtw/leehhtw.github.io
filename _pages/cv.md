@@ -32,20 +32,24 @@ Work experience
   * Radiology, Mass General Hospital/Harvard Medical School, Boston
   * Supervisor: Dr. Susie Y Huang
 
-* 2021-present: Instructor
+* 2021-2024: Instructor
+  * Radiology, Mass General Hospital/Harvard Medical School, Boston
+    
+* 2024-present: Assistant Professor
   * Radiology, Mass General Hospital/Harvard Medical School, Boston
 
 Honors and Awards
 ======
-* 2021 NIH Director's [Early Independence Award](https://commonfund.nih.gov/earlyindependence/AwardRecipients21)
-* 2021 ISMRM Junior Fellow
-* 2020 Brain Structure and Function Editors Choice Award, Cajal Club
+* 2024 ISMRM AMPC selection
+* 2021 [NIH Director's Early Independence Award](https://commonfund.nih.gov/earlyindependence/AwardRecipients21)
+* 2021 [ISMRM Junior Fellow](https://www.ismrm.org/21m/junior-fellows/)
+* 2020 [Brain Structure and Function Editors Choice Award, Cajal Club](https://www.cajalclub.org/brain-structure-function-award)
 * 2019 Special MacCracken Award, New York University School of Medicine
 * 2019 Trainee Competition, 2nd Place, White Matter Study Group, ISMRM 27th Annual Meeting
 * 2018 Trainee Competition, 2nd Place, White Matter Study Group, ISMRM 26th Annual Meeting
 * 2017 Trainee Competition, 3rd Place, White Matter Study Group, ISMRM 25th Annual Meeting
 * 2016 Abstract Presenter Award, 2nd Place, Diffusion Study Group, ISMRM 24th Annual Meeting
-* 2002 Gold Medal, 33rd International Physics Olympiad, Bali, Indonesia
+* 2002 Gold Medal, [33rd International Physics Olympiad, Bali, Indonesia](https://ipho-unofficial.org/timeline/2002/individual)
 
 Skills
 ======
